@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Night sky from Sunset Point at Bryce National Park](https://i.imgur.com/mOYFFGo.jpg)
 <!--
 **cnbrenci/cnbrenci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
